@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/73/97CHC7IICZHAWFCBG9R38W.uasset",
+				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/C5/YLFHXGIVDAEWW7Z5JEURUR.uasset",
+				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/healthPad/healthPad.uasset",
+				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/healthPad/healthParticle.uasset",
 				"C:/Users/thoma/OneDrive/Documents/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/TaskBlueprints/Door.uasset",
 				"C:/Users/thoma/OneDrive/Documents/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/TaskBlueprints/WalkThroughDoor.uasset",
 				"C:/Users/thoma/OneDrive/Documents/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6O/33YMTZL96QWR29T20QD3HM.uasset",
