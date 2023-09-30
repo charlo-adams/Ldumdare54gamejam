@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/GameJam/Ldumdare54gamejam/ludumdareproject/Content/VFX/Material/M_test.uasset",
 				"E:/GameJam/Ldumdare54gamejam/ludumdareproject/Content/VFX/Material/M_thruster.uasset",
 				"E:/GameJam/Ldumdare54gamejam/ludumdareproject/Content/VFX/Thruster/SM_Cone.uasset",
