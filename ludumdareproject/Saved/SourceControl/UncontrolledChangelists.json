@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/alien-ai-controller.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/alien-enemy.uasset",
 				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TJ/ZSDOMYWWHEOW74VZXTLYAT.uasset",
 				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/WX/7D8EJEAYYZI624PNBFDWMB.uasset",
 				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AD/4RYJ2IAH5KCJ9WUAQ7CHGZ.uasset",
