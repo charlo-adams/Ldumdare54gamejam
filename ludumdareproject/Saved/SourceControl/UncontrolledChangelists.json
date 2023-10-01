@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/alien-ai-controller.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/ALien-BB.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/alien-BT.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/alien-enemy.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/AI-Tasks/BTTask_BlueprintBase_moveto.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/animatio-placeholder/aiblendspace.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/animatio-placeholder/ai-mannyAB.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/AI-Tasks/BTTask_chase-player.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/RB/QL1DTKWDRQ2PCVZL6LC0F9.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HO/V23QPBI8H9KQH1AVA4VDH5.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/R9/BJODSQPAZYN5HOS0GRZ7YD.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/damagetoenmies.uasset",
 				"C:/Users/thoma/OneDrive/Documents/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/TaskBlueprints/Door.uasset",
 				"C:/Users/thoma/OneDrive/Documents/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/TaskBlueprints/WalkThroughDoor.uasset",
 				"C:/Users/thoma/OneDrive/Documents/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6O/33YMTZL96QWR29T20QD3HM.uasset",
@@ -135,19 +149,7 @@
 				"C:/Users/thoma/OneDrive/Documents/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/TaskBlueprints/Object_2.uasset",
 				"C:/Users/thoma/OneDrive/Documents/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/TaskBlueprints/Object_4.uasset",
 				"C:/Users/thoma/OneDrive/Documents/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/TaskBlueprints/Object_5.uasset",
-				"C:/Users/thoma/OneDrive/Documents/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/TaskBlueprints/Object_6.uasset",
-				"E:/Ldumdare54gamejam/ludumdareproject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/alien-ai-controller.uasset",
-				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/ALien-BB.uasset",
-				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/alien-BT.uasset",
-				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/alien-enemy.uasset",
-				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/AI-Tasks/BTTask_BlueprintBase_moveto.uasset",
-				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/animatio-placeholder/aiblendspace.uasset",
-				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/animatio-placeholder/ai-mannyAB.uasset",
-				"E:/Ldumdare54gamejam/ludumdareproject/Content/AI-Enemies/AI-Tasks/BTTask_chase-player.uasset",
-				"E:/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/RB/QL1DTKWDRQ2PCVZL6LC0F9.uasset",
-				"E:/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HO/V23QPBI8H9KQH1AVA4VDH5.uasset",
-				"E:/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/R9/BJODSQPAZYN5HOS0GRZ7YD.uasset"
+				"C:/Users/thoma/OneDrive/Documents/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/TaskBlueprints/Object_6.uasset"
 			]
 		}
 	]
