@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GameJam/Ldumdare54gamejam/ludumdareproject/Content/VFX/Poof/NS_poof.uasset",
+				"E:/GameJam/Ldumdare54gamejam/ludumdareproject/Content/VFX/Poof/Cloud.uasset",
+				"D:/UE_5.3/Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset",
+				"E:/GameJam/Ldumdare54gamejam/ludumdareproject/Content/VFX/Poof/M_cloud.uasset",
+				"E:/GameJam/Ldumdare54gamejam/ludumdareproject/Content/VFX/Poof/M_cloud_Inst.uasset",
+				"E:/GameJam/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/DL/897Q4TUINMYIMEL16LIUPC.uasset",
+				"E:/GameJam/Ldumdare54gamejam/ludumdareproject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0Z/8JEGF0G2LGSP7B8GRQ763W.uasset",
 				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/Tasks/Generator.uasset",
 				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/InventorySystem/GeneratorBattery.uasset",
