@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/Maps/making_level/main_level.umap",
+				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/Tasks/Generator.uasset",
+				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/Tasks/OxygenSystem.uasset",
+				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/InventorySystem/GeneratorBattery.uasset",
+				"D:/Game Jams/Ldumdare54gamejam/ludumdareproject/Content/DoorBlueprints/NumberPad.uasset",
 				"E:/GameJam/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/Maps/making_level/main_level.umap",
 				"E:/Ldumdare54gamejam/ludumdareproject/Content/ThirdPerson/Maps/making_level/main_level.umap",
 				"E:/Ldumdare54gamejam/ludumdareproject/Content/Tasks/accent_metal.uasset",
